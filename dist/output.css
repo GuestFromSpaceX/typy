@@ -522,6 +522,193 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.flex {
+  display: flex;
+}
+
+.w-px {
+  width: 1px;
+}
+
+.w-1\/2 {
+  width: 50%;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.items-end {
+  align-items: flex-end;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-end {
+  justify-content: flex-end;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.self-center {
+  align-self: center;
+}
+
+.bg-\[\#998414\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(153 132 20 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#ffffff\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#ffcfff\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 207 255 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#ff4fff\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 79 255 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#ff3fff\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 63 255 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#ff5fff\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 95 255 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#ff65ff\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 101 255 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#ff6fff\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 111 255 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#ff6fff\]\/50 {
+  background-color: rgb(255 111 255 / 0.5);
+}
+
+.bg-\[\#ff5fff\]\/50 {
+  background-color: rgb(255 95 255 / 0.5);
+}
+
+.bg-\[\#ff3fff\]\/50 {
+  background-color: rgb(255 63 255 / 0.5);
+}
+
+.bg-\[\#ff1fff\]\/50 {
+  background-color: rgb(255 31 255 / 0.5);
+}
+
+.bg-\[\#ff2fff\]\/50 {
+  background-color: rgb(255 47 255 / 0.5);
+}
+
+.bg-\[\#ff4fff\]\/50 {
+  background-color: rgb(255 79 255 / 0.5);
+}
+
+.bg-\[\#ff7fff\]\/50 {
+  background-color: rgb(255 127 255 / 0.5);
+}
+
+.bg-\[\#ff8fff\]\/50 {
+  background-color: rgb(255 143 255 / 0.5);
+}
+
+.bg-\[\#ff9fff\]\/50 {
+  background-color: rgb(255 159 255 / 0.5);
+}
+
+.bg-green-100\/50 {
+  background-color: rgb(220 252 231 / 0.5);
+}
+
+.bg-green-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(187 247 208 / var(--tw-bg-opacity));
+}
+
+.bg-green-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(220 252 231 / var(--tw-bg-opacity));
+}
+
+.bg-blue-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(219 234 254 / var(--tw-bg-opacity));
+}
+
+.bg-blue-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(147 197 253 / var(--tw-bg-opacity));
+}
+
+.bg-red-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 226 226 / var(--tw-bg-opacity));
+}
+
+.bg-red-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 202 202 / var(--tw-bg-opacity));
+}
+
+.bg-red-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(252 165 165 / var(--tw-bg-opacity));
+}
+
+.bg-yellow-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(253 224 71 / var(--tw-bg-opacity));
+}
+
+.bg-blue-900 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(30 58 138 / var(--tw-bg-opacity));
+}
+
+.bg-blue-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(37 99 235 / var(--tw-bg-opacity));
+}
+
+.bg-blue-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(191 219 254 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#000000\]\/50 {
+  background-color: rgb(0 0 0 / 0.5);
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
